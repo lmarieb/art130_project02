@@ -1,7 +1,16 @@
 @font-face {
     font-family: "Tilt Neon";
-    src: url(assets/TiltNeon-Regular-VariableFont_XROT,YROT.ttf);
+    src: url(Assets/TiltNeon-Regular-VariableFont_XROT,YROT.ttf);
+
+@font-face {
+    font-family: ;
+    src: url();
+}    
 }
 h1 {
-    font-family: 'Tilt Neon', sans-serif
+    font-family: 'Tilt Neon', sans-serif;    
+}
+
+.address {
+    font-family: ;
 }
