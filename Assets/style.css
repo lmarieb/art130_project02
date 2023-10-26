@@ -1,7 +1,4 @@
-.h1 { 
-    color: rgb(29, 29, 77);
-}
-
-.colored-box {
-    color: grey;
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+html {
+    font-family: TiltNeon;
 }
