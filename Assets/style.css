@@ -1,5 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
-
+@font-face {
+    font-family: "Tilt Neon";
+    src: url(assets/TiltNeon-Regular-VariableFont_XROT,YROT.ttf);
+}
 h1 {
     font-family: 'Tilt Neon', sans-serif
 }
