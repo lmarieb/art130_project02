@@ -16,6 +16,10 @@ html {
     background-color: rgb(131, 198, 198);
 }
 
+body {
+    font-family: "Noto Sans JP" ;
+}
+
 .wrapper {
     font-family: "Tilt Neon";
     font-size: 400;
