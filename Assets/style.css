@@ -12,7 +12,7 @@
     src: url('Assets/NotoSansJP-VariableFont_wght.ttf') format('ttf');
 }
 
-.html {
+html {
     background-color: rgb(131, 198, 198);
 }
 
