@@ -16,16 +16,17 @@ html {
     background-color: rgb(131, 198, 198);
 }
 
-body {
-    font-family: "Noto Sans JP" ;
-}
-
 .wrapper {
     font-family: "Tilt Neon";
     font-size: 400;
     display: block;
     margin: 0.5rem;
 }
+
+body {
+    font-family: "Noto Sans JP" ;
+}
+
 
 .bold-text {
     font-family: "Noto Sans JP" ;
