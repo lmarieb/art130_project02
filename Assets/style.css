@@ -18,14 +18,14 @@ html {
 
 .kicker {
     font-family: "Tilt Neon";
-    font-size: larger;
+    font-size: 400;
     display: block;
     margin: 0.5rem;
 }
 
 .bold-text {
     font-family: "Noto Sans JP" ;
-    font-size: medium;
+    font-size: 400;
     display: block;
     margin: 1rem;
 }
