@@ -16,7 +16,7 @@ html {
     background-color: rgb(131, 198, 198);
 }
 
-.kicker {
+.wrapper {
     font-family: "Tilt Neon";
     font-size: 400;
     display: block;
