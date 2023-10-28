@@ -1,16 +1,3 @@
-@font-face {
-    font-family: "Tilt Neon";
-    font-size: x-large;
-    font-style: normal;
-    src: url('Assets/TiltNeon-Regular-VariableFont_XROT,YROT.ttf') format('ttf');
-}
-
-@font-face {
-    font-family: "Noto Sans JP" ;
-    font-size: medium;
-    font-style: normal;
-    src: url('Assets/NotoSansJP-VariableFont_wght.ttf') format('ttf');
-}
 
 html {
     background-color: rgb(107, 201, 201);
@@ -18,18 +5,21 @@ html {
 
 .wrapper {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 400;
+    font-size: 600;
     display: block;
     margin: 0.5rem;
 }
 
 body {
-    font-family: "Noto Sans JP" ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 400;
+    display: block;
+    margin: 0.5rem;
 }
 
 
 .bold-text {
-    font-family: "Noto Sans JP" ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 400;
     display: block;
     margin: 1rem;
